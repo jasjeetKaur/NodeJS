@@ -1,0 +1,77 @@
+[
+  {
+    "countryName": "Monaco",
+    "gdp": 126599.403276628,
+    "gni": 126599.403276628
+  },
+  {
+    "countryName": "Liechtenstein",
+    "gdp": 104995.98550106,
+    "gni": 89697.6567895157
+  },
+  {
+    "countryName": "Luxembourg",
+    "gdp": 79494.2062680935,
+    "gni": 66542.6942219326
+  },
+  {
+    "countryName": "Norway",
+    "gdp": 66775.3943971756,
+    "gni": 67506.419956294
+  },
+  {
+    "countryName": "Iceland",
+    "gdp": 56445.5361371634,
+    "gni": 54342.4061742558
+  },
+  {
+    "countryName": "Switzerland",
+    "gdp": 54797.5466345741,
+    "gni": 59478.9107979057
+  },
+  {
+    "countryName": "Qatar",
+    "gdp": 53207.3336473736,
+    "gni": 46377.9688058117
+  },
+  {
+    "countryName": "Ireland",
+    "gdp": 50815.6416914227,
+    "gni": 44118.8580800277
+  },
+  {
+    "countryName": "Denmark",
+    "gdp": 48816.8358639645,
+    "gni": 49188.0382423918
+  },
+  {
+    "countryName": "San Marino",
+    "gdp": 47035.6543494594,
+    "gni": 41251.8849176994
+  },
+  {
+    "countryName": "United States",
+    "gdp": 44307.9205848603,
+    "gni": 44741.2295781057
+  },
+  {
+    "countryName": "Sweden",
+    "gdp": 43085.353145957,
+    "gni": 43667.6240957621
+  },
+  {
+    "countryName": "Netherlands",
+    "gdp": 41577.1600883755,
+    "gni": 41741.9114398215
+  },
+  {
+    "countryName": "United Arab Emirates",
+    "gdp": 40298.5242178562,
+    "gni": 40942.5074124562
+  },
+  {
+    "countryName": "United Kingdom",
+    "gdp": 40047.905967007,
+    "gni": 41030.2764785554
+  }
+]
